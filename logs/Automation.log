@@ -1,0 +1,661 @@
+2024-10-07 15:55:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 15:55:41 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 15:55:44 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 15:55:47 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 15:55:51 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 15:55:51 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 15:55:54 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 15:55:59 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 15:56:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 15:56:41 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 15:56:45 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 15:56:48 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 15:56:51 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 15:56:51 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 15:56:54 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 15:57:00 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 15:57:00 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 15:57:08 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 16:03:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 16:03:25 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 16:03:29 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 16:03:32 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 16:03:35 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 16:03:35 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 16:03:38 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 16:03:43 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 16:03:44 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 16:18:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 16:19:00 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 16:19:03 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 16:19:07 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 16:19:10 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 16:19:10 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 16:19:13 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 16:19:19 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 16:19:20 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 16:24:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 16:24:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 16:24:30 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 16:24:34 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 16:24:37 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 16:24:40 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 16:24:40 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 16:24:43 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 16:24:48 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 16:24:49 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 16:25:53 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 16:26:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 16:26:26 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 16:26:29 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 16:26:32 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 16:26:36 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 16:26:36 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 16:26:39 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 16:26:44 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 16:26:45 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 16:35:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 16:35:33 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 16:35:37 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 16:35:40 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 16:35:43 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 16:35:43 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 16:35:46 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 16:35:51 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 16:35:52 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 16:36:00 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 16:37:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 16:37:29 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 16:37:33 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 16:37:36 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 16:37:39 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 16:37:39 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 16:37:42 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 16:37:48 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 16:37:49 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 16:53:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 16:53:39 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 16:53:42 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 16:53:46 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 16:53:49 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 16:53:49 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 16:53:52 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 16:54:02 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 16:54:03 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 16:54:10 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 16:54:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 16:54:32 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 16:54:35 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 16:54:38 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 16:54:41 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 16:54:42 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 16:54:45 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 16:54:51 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 16:54:52 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 16:57:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 16:57:28 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 16:57:31 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 16:57:34 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 16:57:37 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 16:57:38 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 16:57:41 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 16:57:45 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 16:57:46 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 17:07:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:07:20 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:07:23 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:07:26 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:07:30 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:07:30 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:07:33 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:07:38 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 17:07:38 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 17:10:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:10:26 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:10:30 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:10:33 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:10:36 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:10:36 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:10:39 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:10:45 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 17:10:46 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 17:14:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:14:41 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:14:44 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:14:48 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:14:51 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:14:51 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:14:54 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:14:59 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 17:15:00 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 17:15:07 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 17:15:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:16:02 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:16:05 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:16:09 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:16:12 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:16:12 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:16:15 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:16:20 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 17:16:21 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 17:21:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:21:05 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:21:09 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:21:12 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:21:15 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:21:15 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:21:18 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:21:23 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 17:21:24 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 17:21:32 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 17:21:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:21:58 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:22:01 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:22:05 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:22:08 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:22:08 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:22:11 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:22:17 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 17:22:18 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 17:24:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:24:24 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:24:28 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:24:31 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:24:35 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:24:35 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:24:38 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:24:42 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 17:24:43 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 17:40:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:40:38 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:40:41 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:40:45 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:40:48 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:40:48 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:40:51 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:40:56 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 17:41:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:41:17 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:41:21 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:41:24 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:41:27 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:41:28 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:41:31 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:41:36 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 17:41:36 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 17:45:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:46:00 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:46:03 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:46:06 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:46:10 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:46:10 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:46:13 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:46:19 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 17:46:19 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 17:59:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 17:59:05 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 17:59:09 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 17:59:12 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 17:59:15 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 17:59:15 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 17:59:18 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 17:59:23 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 17:59:24 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 18:03:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 18:03:41 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 18:03:45 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 18:03:48 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 18:03:51 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 18:03:51 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 18:03:54 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 18:04:00 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 18:04:01 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 18:29:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 18:29:30 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 18:29:34 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 18:29:37 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 18:29:40 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 18:29:40 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 18:29:43 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 18:29:52 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 18:29:53 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 18:30:08 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 18:30:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 18:30:22 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 18:30:25 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 18:30:28 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 18:30:31 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 18:30:32 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 18:30:35 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 18:30:40 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 18:31:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 18:31:27 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 18:31:30 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 18:31:33 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 18:31:36 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 18:31:36 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 18:31:39 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 18:31:45 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 18:31:46 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 18:32:01 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 18:33:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 18:34:00 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 18:34:03 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 18:34:07 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 18:34:10 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 18:34:10 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 18:34:13 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 18:34:18 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 18:34:19 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 18:34:35 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-07 18:35:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 18:35:08 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 18:35:12 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 18:35:15 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 18:35:18 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 18:35:18 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 18:35:21 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 18:35:27 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 18:35:28 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 18:41:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 18:41:32 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 18:41:35 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 18:41:38 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 18:41:42 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 18:41:42 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 18:41:45 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 18:41:50 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 18:41:50 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-07 18:43:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-07 18:43:51 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-07 18:43:54 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-07 18:43:58 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-07 18:44:01 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-07 18:44:01 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-07 18:44:04 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-07 18:44:09 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-07 18:44:10 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 10:53:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 10:53:10 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 10:53:13 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 10:53:17 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 10:53:20 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 10:53:20 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 10:53:23 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 10:53:31 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 10:53:31 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:02:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:02:50 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:02:53 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:02:57 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:03:00 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:03:00 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:03:03 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:03:20 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:03:20 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:05:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:05:17 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:05:21 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:05:24 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:05:27 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:05:28 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:05:31 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:05:36 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:05:37 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:06:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:06:49 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:06:52 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:06:56 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:06:59 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:06:59 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:07:02 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:07:06 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:07:08 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:15:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:15:20 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:15:24 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:15:27 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:15:30 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:15:30 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:15:34 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:15:39 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:15:40 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:19:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:19:11 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:19:15 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:19:18 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:19:21 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:19:21 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:19:24 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:19:30 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:19:30 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:19:39 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 11:20:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:21:02 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:21:06 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:21:09 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:21:12 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:21:12 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:21:15 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:21:21 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:21:22 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:25:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:25:31 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:25:35 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:25:38 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:25:41 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:25:41 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:25:44 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:25:49 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:25:50 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:32:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:32:12 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:32:15 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:32:18 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:32:22 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:32:22 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:32:25 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:32:30 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:32:31 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:47:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:47:55 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:47:58 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:48:02 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:48:05 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:48:05 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:48:08 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:48:13 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:48:14 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:48:34 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 11:51:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:51:18 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:51:22 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:51:25 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:51:28 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:51:28 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:51:31 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:51:36 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:51:37 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:51:56 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 11:52:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:53:03 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:53:06 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:53:09 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:53:12 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:53:12 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:53:15 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:53:21 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:53:22 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:53:41 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 11:54:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:54:51 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:54:54 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:54:57 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:55:01 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:55:01 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:55:04 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:55:18 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:55:19 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 11:55:40 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 11:57:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 11:57:54 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 11:57:58 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 11:58:01 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 11:58:04 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 11:58:04 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 11:58:07 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 11:58:12 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 11:58:13 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 12:31:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 12:31:06 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 12:31:09 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 12:31:13 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 12:31:16 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 12:31:16 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 12:31:19 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 12:31:24 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 12:31:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 12:32:25 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 12:32:30 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 12:33:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 12:35:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 12:35:27 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 12:35:31 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 12:35:34 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 12:35:37 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 12:35:37 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 12:35:40 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 12:35:46 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 12:35:47 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 12:36:02 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 13:07:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 13:07:10 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 13:07:15 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 13:07:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 13:07:40 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 13:07:44 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 13:07:47 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 13:07:50 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 13:07:50 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 13:07:53 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 13:07:59 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 13:07:59 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 13:08:21 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 13:08:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 13:08:57 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 13:09:00 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 13:09:04 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 13:09:07 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 13:09:07 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 13:09:10 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 13:09:16 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 13:09:16 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 14:20:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 14:20:26 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 14:20:29 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 14:20:33 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 14:20:36 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 14:20:36 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 14:20:39 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 14:20:46 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 14:20:47 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 14:28:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 14:28:52 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 14:28:55 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 14:28:58 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 14:29:02 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 14:29:02 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 14:29:05 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 14:29:10 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 14:29:11 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 14:29:25 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 14:30:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 14:30:11 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 14:30:15 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 14:30:18 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 14:30:21 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 14:30:21 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 14:30:24 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 14:30:29 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 14:30:30 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 14:30:45 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 14:34:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 14:34:49 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 14:34:52 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 14:34:56 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 14:34:59 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 14:34:59 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 14:35:02 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 14:35:07 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 14:35:08 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 14:35:23 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 14:36:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 14:36:24 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 14:36:27 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 14:36:30 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 14:36:34 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 14:36:34 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 14:36:37 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 14:36:42 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 14:36:42 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 14:36:57 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 14:39:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 14:39:49 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 14:39:52 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 14:39:55 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 14:39:58 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 14:39:58 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 14:40:01 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 14:40:06 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 14:40:07 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 14:40:22 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 14:42:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 14:42:12 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 14:42:16 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 14:42:19 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 14:42:22 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 14:42:22 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 14:42:25 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 14:42:50 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 14:42:50 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 14:43:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 14:43:59 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 14:44:03 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 14:44:06 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 14:44:09 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 14:44:09 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 14:44:12 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 14:44:17 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 14:44:18 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
+2024-10-08 14:44:40 [main] ERROR testCases.TC_01_LoginTest - Testcase failed
+2024-10-08 14:47:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Digiclass\DigiAssess\testng.xml
+
+2024-10-08 14:47:17 [main] INFO  testCases.TC_01_LoginTest -  ***Starting the TC_01_LoginTest*** 
+2024-10-08 14:47:21 [main] INFO  testCases.TC_01_LoginTest - Providing Username
+2024-10-08 14:47:24 [main] INFO  testCases.TC_01_LoginTest - Providing password
+2024-10-08 14:47:27 [main] INFO  testCases.TC_01_LoginTest - Clicking the Login button
+2024-10-08 14:47:27 [main] INFO  testCases.TC_01_LoginTest - Comparing the pagetitle
+2024-10-08 14:47:30 [main] INFO  testCases.TC_01_LoginTest - clicking the Create New button
+2024-10-08 14:47:35 [main] INFO  testCases.TC_01_LoginTest - Giving the Exam Name
+2024-10-08 14:47:36 [main] INFO  testCases.TC_01_LoginTest - providing the start date and Enddate
